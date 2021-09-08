@@ -1,0 +1,16 @@
+C:\Users\Crafter\source\repos\RucoyOnlinePixelHunter\RucoyOnlinePixelHunter\bin\Debug\res\mummy.png
+C:\Users\Crafter\source\repos\RucoyOnlinePixelHunter\RucoyOnlinePixelHunter\bin\Debug\RucoyOnlinePixelHunter.exe.config
+C:\Users\Crafter\source\repos\RucoyOnlinePixelHunter\RucoyOnlinePixelHunter\bin\Debug\RucoyOnlinePixelHunter.exe
+C:\Users\Crafter\source\repos\RucoyOnlinePixelHunter\RucoyOnlinePixelHunter\bin\Debug\RucoyOnlinePixelHunter.pdb
+C:\Users\Crafter\source\repos\RucoyOnlinePixelHunter\RucoyOnlinePixelHunter\bin\Debug\ImageFinder.dll
+C:\Users\Crafter\source\repos\RucoyOnlinePixelHunter\RucoyOnlinePixelHunter\bin\Debug\ImageFinder.pdb
+C:\Users\Crafter\source\repos\RucoyOnlinePixelHunter\RucoyOnlinePixelHunter\obj\Debug\RucoyOnlinePixelHunter.csprojAssemblyReference.cache
+C:\Users\Crafter\source\repos\RucoyOnlinePixelHunter\RucoyOnlinePixelHunter\obj\Debug\RucoyOnline.PixelHunter.Form1.resources
+C:\Users\Crafter\source\repos\RucoyOnlinePixelHunter\RucoyOnlinePixelHunter\obj\Debug\RucoyOnline.PixelHunter.Properties.Resources.resources
+C:\Users\Crafter\source\repos\RucoyOnlinePixelHunter\RucoyOnlinePixelHunter\obj\Debug\RucoyOnlinePixelHunter.csproj.GenerateResource.cache
+C:\Users\Crafter\source\repos\RucoyOnlinePixelHunter\RucoyOnlinePixelHunter\obj\Debug\RucoyOnlinePixelHunter.csproj.CoreCompileInputs.cache
+C:\Users\Crafter\source\repos\RucoyOnlinePixelHunter\RucoyOnlinePixelHunter\obj\Debug\RucoyOnlinePixelHunter.csproj.CopyComplete
+C:\Users\Crafter\source\repos\RucoyOnlinePixelHunter\RucoyOnlinePixelHunter\obj\Debug\RucoyOnlinePixelHunter.exe
+C:\Users\Crafter\source\repos\RucoyOnlinePixelHunter\RucoyOnlinePixelHunter\obj\Debug\RucoyOnlinePixelHunter.pdb
+C:\Users\Crafter\source\repos\RucoyOnlinePixelHunter\RucoyOnlinePixelHunter\obj\Debug\RucoyOnline.PixelHunter.ProcessInList.resources
+C:\Users\Crafter\source\repos\RucoyOnlinePixelHunter\RucoyOnlinePixelHunter\bin\Debug\res\ImAttack.png
